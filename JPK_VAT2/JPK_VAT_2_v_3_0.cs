@@ -1,3 +1,6 @@
+// Copyright (c) 2018 Jakub Guc
+// See https://github.com/jguc/JPK_VAT2.CSharpClasses for reference and examples
+
 using System.Collections.Generic;
 
 namespace JGuc.Legislation.PL.JPK
