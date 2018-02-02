@@ -26,6 +26,6 @@ This repository contains ready to use c# classes that will allow you to generate
 ```
 
 ### See also
->> PL : [https://pl.wikipedia.org/wiki/Jednolity_Plik_Kontrolny](https://pl.wikipedia.org/wiki/Jednolity_Plik_Kontrolny)
->> PL : [http://www.finanse.mf.gov.pl/web/wp/pp/jpk/jpk_vat-ogolnie](http://www.finanse.mf.gov.pl/web/wp/pp/jpk/jpk_vat-ogolnie)
->> PL : [http://www.finanse.mf.gov.pl/pp/jpk/klient-jpk](http://www.finanse.mf.gov.pl/pp/jpk/klient-jpk)
+> PL : [https://pl.wikipedia.org/wiki/Jednolity_Plik_Kontrolny](https://pl.wikipedia.org/wiki/Jednolity_Plik_Kontrolny)  
+> PL : [http://www.finanse.mf.gov.pl/web/wp/pp/jpk/jpk_vat-ogolnie](http://www.finanse.mf.gov.pl/web/wp/pp/jpk/jpk_vat-ogolnie)  
+> PL : [http://www.finanse.mf.gov.pl/pp/jpk/klient-jpk](http://www.finanse.mf.gov.pl/pp/jpk/klient-jpk)  
